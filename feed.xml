@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每天 10 分钟，吃出好身体</title>
+    <link>https://muse.ai/podcasts/feed/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459</link>
+    <description>小安和小哲每天用约10分钟聊良好的饮食习惯，讲身体健康，也讲吃饭和社交的关系。</description>
+    <language>zh-CN</language>
+    <itunes:author>小安和小哲</itunes:author>
+    <itunes:owner>
+      <itunes:name>小安和小哲</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Nutrition" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <!-- 注意：本文件未含 itunes:image，因为原节目封面目前只有本地文件、没有公开图片地址。
+         在 Connect 里换源后如果苹果提示缺封面图，再补一个长期可公开访问的封面地址，不要用会过期的临时链接。 -->
+    <item>
+      <title>晚饭别吃太晚，夜宵轻一点</title>
+      <description>小安和小哲聊聊晚饭时间与夜宵：睡前留出两到三个小时，太晚就吃轻一点小一点，让规律的晚饭成为一天里安稳的停靠点。</description>
+      <pubDate>Tue, 03 Nov 2026 02:15:10 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-0f4aba7d-0e42-43b4-9d84-8a5ce570baf5.mp3" length="4052965" type="audio/mpeg" />
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-0f4aba7d-0e42-43b4-9d84-8a5ce570baf5.mp3</guid>
+      <itunes:duration>506</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>先吃菜，再吃主食：换个顺序，饭桌更从容</title>
+      <description>小安和小哲聊聊进餐顺序：先吃蔬菜，再吃蛋白质，最后吃主食，如何让一顿饭的节奏更稳，又不打扰和家人朋友一起吃饭的气氛。</description>
+      <pubDate>Mon, 02 Nov 2026 02:15:56 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-48dd9c0f-fa41-4bcb-b744-9b5d441dc051.mp3" length="4331557" type="audio/mpeg" />
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-48dd9c0f-fa41-4bcb-b744-9b5d441dc051.mp3</guid>
+      <itunes:duration>541</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>吃得慢一点，饭桌也更从容：吃饭速度的秘密</title>
+      <description>小安和小哲聊聊吃饭速度：为什么慢下来能给身体留出反应时间，也能让饭桌节奏更合拍，并分享三个温和可试的小办法。</description>
+      <pubDate>Sun, 01 Nov 2026 02:22:08 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-a4ed6c1a-2916-4bcb-b744-9b5d441dc051.mp3" length="4431013" type="audio/mpeg" />
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-a4ed6c1a-2916-4bcb-b744-9b5d441dc051.mp3</guid>
+      <itunes:duration>553</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>吃得好，人也更稳：饮食习惯与身体和社交</title>
+      <description>小安和小哲聊聊良好的饮食习惯怎样影响身体健康、情绪状态和一起吃饭带来的社交支持。</description>
+      <pubDate>Sat, 31 Oct 2026 18:47:36 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-4c981682-3532-46fc-a6c3-2e7b5e5d0b72.mp3" length="1478053" type="audio/mpeg" />
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-4c981682-3532-46fc-a6c3-2e7b5e5d0b72.mp3</guid>
+      <itunes:duration>184</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
