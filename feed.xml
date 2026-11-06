@@ -17,6 +17,16 @@
     <!-- 注意：本文件未含 itunes:image，因为原节目封面目前只有本地文件、没有公开图片地址。
          在 Connect 里换源后如果苹果提示缺封面图，再补一个长期可公开访问的封面地址，不要用会过期的临时链接。 -->
     <item>
+      <title>早餐吃点实在的，一天从容一点</title>
+      <description>小安和小哲聊聊早餐：主食加蛋白质再加一点蔬果的简单组合，让上午不那么快饿、情绪稳一点；早上没胃口可以从少一点、热一点开始，便利店也能凑出一顿像样的早餐。</description>
+      <pubDate>Fri, 06 Nov 2026 02:19:02 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-eeca1b69-cbf7-4351-a626-e8c34e40a393.mp3" length="4101157" type="audio/mpeg" />
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/1376580378873741/faacb3b1-57f5-48aa-b7d9-4e3bbe8bd459/ep-eeca1b69-cbf7-4351-a626-e8c34e40a393.mp3</guid>
+      <itunes:duration>512</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>吃得杂一点，肠道和饭桌都更热闹</title>
       <description>小安和小哲聊聊食物多样性：每天十二种以上、每周二十五种以上的温和参考，不等于吃得多；不同食物养不同的肠道微生物，种类增加要慢慢来；主食换着吃、蔬菜换颜色，饭桌话题也跟着多起来。</description>
       <pubDate>Thu, 05 Nov 2026 02:23:20 GMT</pubDate>
